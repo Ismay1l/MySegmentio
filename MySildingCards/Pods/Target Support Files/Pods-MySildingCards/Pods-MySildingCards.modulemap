@@ -1,0 +1,6 @@
+framework module Pods_MySildingCards {
+  umbrella header "Pods-MySildingCards-umbrella.h"
+
+  export *
+  module * { export * }
+}
